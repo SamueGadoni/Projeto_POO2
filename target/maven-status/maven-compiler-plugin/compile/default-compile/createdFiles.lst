@@ -1,0 +1,4 @@
+org\example\Main.class
+model\Aluno.class
+dao\mongoConexao.class
+dao\AlunoDAO.class
